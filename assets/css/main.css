@@ -4318,7 +4318,12 @@ cite {
   font-size: 0.8rem;
   color: #525c65;
 }
-
+.post_footer img {
+  width: 100%;
+  max-height: 800px;
+  max-width: 960px;
+  vertical-align: middle;
+}
 .post_footer a {
   text-decoration: none;
   margin-left: 0.1rem;
