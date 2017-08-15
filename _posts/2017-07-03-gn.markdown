@@ -6,10 +6,7 @@ date: 2017-07-01 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
 ---
-
-# Graspable Noise
-
-<iframe src="https://player.vimeo.com/video/216311116" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/216311116" width="940" height="660" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 ‘Graspable Noise’ is an installation that explores an experience of noise in signal processing by experimenting with the boundaries of perception between the physical and the digital in the VR context. It is a combination of di erent visual representations of noise and an air blowing table creating a tactile feeling. Furthermore, it enhances the already bugged features of the outdated software/hardware setup used.
 
