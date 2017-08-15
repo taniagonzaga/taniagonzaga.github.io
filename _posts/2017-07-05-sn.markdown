@@ -15,3 +15,4 @@ Send Nudes is a printed zine created specially to be distributed at Feira Tijuan
 <img src="../assets/img/7site.png" width="840"> 
 <img src="../assets/img/8site.png" width="840"> 
 <img src="../assets/img/9site.png"> 
+![2.mp4](../assets/img/2.mp4)   
