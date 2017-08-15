@@ -23,7 +23,7 @@ The simulations provide a certain feeling of frustration by using unpredicted an
 # _Scene01
 
 ![tg-graspablenoise-03.gif](../assets/img/tg-graspablenoise-g1.gif =840px)  
-<img src="assets/img/tg-graspablenoise-g1.gif" width="840">
+<img src="Assets/img/tg-graspablenoise-g1.gif" width="840">
 
 An emphasis is given to the granular visual texture and its relation to the wind feeling. The viewpoint axis are fixed and the motion is defined by the ‘look around’ head movement. Said movement is important to start the noise effect put in the camera shader, creating a glitch on the path where the motion takes place. The viewer is then able to draw textures with their hands and head motion.
 
