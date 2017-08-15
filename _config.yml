@@ -17,12 +17,13 @@ banner-desc: # add banner description
 author-pic: face.jpg # your photo
 author-name: Tania Gonzaga # your name
 about-author: # about author
-email: tania.gonzaga2@gmail.com # your email
+email:  # your email
 phone: 015773060939 # your pnone number
 website: https://dwayne.example.com # you website
 
 # Social link
 email: tania.gonzaga2@gmail.com
+mailto: tania.gonzaga2@gmail.com
 linkedin: https://www.linkedin.com/in/taniagonzaga/
 behance: https://www.behance.net/taniagonzaga
 
