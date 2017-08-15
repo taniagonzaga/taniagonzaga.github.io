@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manda Nudes"
-img: 1site.png # Add image post (optional)
+img: 1site.jpg # Add image post (optional)
 imgfooter: 2site.png
 imgfooter: 3site.png
 
