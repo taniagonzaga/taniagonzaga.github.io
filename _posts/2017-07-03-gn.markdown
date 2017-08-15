@@ -16,7 +16,7 @@ A small dark room is used to create an atmospheric expanded space outside the vi
 
 The visual program loops four scenes examining different interactions between the physical and the digital, they are changed after a predefined time, each having their own duration. The hand movements are the central component to trigger the interactions. By hovering the hands around the upper space of the table, the viewer is able to perceive and establish its own connections between the visual scene and the tactile feeling and perception of the wind. The interactions are subtle as not to mimic a game environment in which goals and targets are defined but rather focus on the a ect state of the experience.
 
-<img src="../assets/img/tg-graspablenoise-02.jpg" width="840">       
+<img src="../assets/img/tg-graspablenoise-02.jpg" height="840" width="840">       
 
 Each scene is a series of patterns moving in such way to create a metaphorical noise motionscape. They were composed based on the tactile qualities of the wind, each exploring a possible perceptual and interpretive connection. Said connections are open, leaving to the viewer the role of imbuing the abstract motions with a ect. The motionscape proportions are defined by the physical range of the motion sensor and created to be accessible within an arm’s reach.
 
