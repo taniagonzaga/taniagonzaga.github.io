@@ -5,8 +5,12 @@
   {% else %}
   <li><a href="#" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a></li>      
 
-  <li><a href="mailto:tania.gonzaga2@gmail.com" target="_blank">@</a></li>
-  
+{% if site.email %}
+         <li> <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</li></a></span>
+          {% else %}
+          <li><span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:taniagonzaga2@gmail.com">@</a></li></span>
+          {% endif %}  
+
   {% if site.linkedin_url %}
   <li><a href="{{ site.linkedin_url }}" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
   {% else %}
