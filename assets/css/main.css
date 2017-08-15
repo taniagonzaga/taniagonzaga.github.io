@@ -3857,7 +3857,7 @@ body {
 p {
   font-size: 1.1rem;
   line-height: 1.75rem;
-  margin: 0 0 1.75rem;
+  /*margin: 0 0 1.75rem;*/
   color: #525c65;
   font-weight: 400;
 }
@@ -4572,7 +4572,7 @@ cite {
 }
 
 .about .author .author_info {
-  padding: 0;
+  padding: 3px;
   text-align: center;
 }
 
