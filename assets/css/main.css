@@ -4572,7 +4572,7 @@ cite {
 }
 
 .about .author .author_info {
-  padding: 3px;
+  padding: 0px 3px 0px 3px;
   text-align: center;
 }
 
