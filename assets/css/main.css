@@ -4358,7 +4358,7 @@ cite {
 .author {
   padding: 2rem 0;
   margin-bottom: 1.5rem;
-  background-color: #ffffff;
+  background-color: #1c1c1c;
 }
 
 .author .author_image {
@@ -4383,7 +4383,7 @@ cite {
 .author .author_info .author_title {
   font-size: 1.5rem;
   margin-top: 0;
-  color: #262626;
+  color: #ffffff;
 }
 
 .author .author_info .author_title::before, .author .author_info .author_title::after {
