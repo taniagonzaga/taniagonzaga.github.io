@@ -23,13 +23,13 @@ The simulations provide a certain feeling of frustration by using unpredicted an
 
 
 ![tg-graspablenoise-03.jpg](../assets/img/tg-graspablenoise-03.jpg)      
-![tg-graspablenoise-03](../assets/img/tg-graspablenoise-g1.gif)       
+![tg-graspablenoise-03.gif](../assets/img/tg-graspablenoise-g1.gif)       
 
 ![tg-graspablenoise-04.jpg](../assets/img/tg-graspablenoise-04.jpg) 
-![tg-graspablenoise-03.jpg](../assets/img/tg-graspablenoise-g2.gif)       
+![tg-graspablenoise-03.gif](../assets/img/tg-graspablenoise-g2.gif)       
 
 ![tg-graspablenoise-05.jpg](../assets/img/tg-graspablenoise-05.jpg)
-![tg-graspablenoise-03.jpg](../assets/img/tg-graspablenoise-g3.gif)       
+![tg-graspablenoise-03.gif](../assets/img/tg-graspablenoise-g3.gif)       
 
 ![tg-graspablenoise-06.jpg](../assets/img/tg-graspablenoise-06.jpg) 
-![tg-graspablenoise-03.jpg](../assets/img/tg-graspablenoise-g4.gif)  
+![tg-graspablenoise-03.gif](../assets/img/tg-graspablenoise-g4.gif)  
