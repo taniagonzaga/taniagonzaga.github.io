@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to the 1nt3rn3t"
-img: keyvisual.jpg # Add image post (optional)
+img: 2d787444786433.581e219b789db.png # Add image post (optional)
 date: 2017-07-04 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
@@ -22,8 +22,7 @@ And that is precisely what the 1nt3rn3t project is about: ”Naturstudium” sea
 
 <img src="../assets/img/tg-1nt3rn3t-05.gif">
 
-
-
+<img src="../assets/img/70200044786433.581e219b79157.png">
 
 
 
