@@ -7,11 +7,11 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 ---
 Send Nudes is a printed zine created specially to be distributed at Feira Tijuana Porto 2016. It contains collages of images created in ASCII. It plays around with the ideas of virtual sex, privacy and encryption.
 
-<img src="../assets/img/2.png" width="840"> 
-<img src="../assets/img/2.png" width="840"> 
-<img src="../assets/img/2.png" width="840"> 
-<img src="../assets/img/2.png" width="840"> 
-<img src="../assets/img/2.png" width="840"> 
-<img src="../assets/img/2.png" width="840"> 
-<img src="../assets/img/2.png" width="840"> 
-<img src="../assets/img/2.png"> 
+<img src="../assets/img/2site.png" width="840"> 
+<img src="../assets/img/3site.png" width="840"> 
+<img src="../assets/img/4site.png" width="840"> 
+<img src="../assets/img/5site.png" width="840"> 
+<img src="../assets/img/6site.png" width="840"> 
+<img src="../assets/img/7site.png" width="840"> 
+<img src="../assets/img/8site.png" width="840"> 
+<img src="../assets/img/9site.png"> 
