@@ -10,13 +10,13 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 
 <iframe src="https://player.vimeo.com/video/216311116" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-<img src="../assets/img/0.gif" width="840">       
+<img src="../assets/img/0.gif" height="840" width="840">       
 
 A small dark room is used to create an atmospheric expanded space outside the virtual world. It is composed by a wood black table, a chair, a VR headset with a motion sensor attached, speakers and a dim LED light for orientation purposes. The table is build with 11 computer fans running at di erent RPM and distributed in a specific way to create a topography field of air flow. The wind is placed as an abstract physical representation of the digital noise and it is used because of its turbulent force, ungraspable and non-material quality. In addition, an ambience soundtrack was composed using the fan motor sounds complemented by dissonant note intervals of second minor. The track plays constantly in the room yet not overlapping the motors’ live sound.
 
 The visual program loops four scenes examining different interactions between the physical and the digital, they are changed after a predefined time, each having their own duration. The hand movements are the central component to trigger the interactions. By hovering the hands around the upper space of the table, the viewer is able to perceive and establish its own connections between the visual scene and the tactile feeling and perception of the wind. The interactions are subtle as not to mimic a game environment in which goals and targets are defined but rather focus on the a ect state of the experience.
 
-<img src="../assets/img/tg-graspablenoise-02.jpg" height="840" width="840">       
+<img src="../assets/img/tg-graspablenoise-02.jpg" width="840">       
 
 Each scene is a series of patterns moving in such way to create a metaphorical noise motionscape. They were composed based on the tactile qualities of the wind, each exploring a possible perceptual and interpretive connection. Said connections are open, leaving to the viewer the role of imbuing the abstract motions with a ect. The motionscape proportions are defined by the physical range of the motion sensor and created to be accessible within an arm’s reach.
 
