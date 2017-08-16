@@ -16,10 +16,10 @@ to be and what they really could be. For the first video called Amelia, elements
 
 This work was presented in December 2009 at Centro Universitário Senac, São Paulo.
 
-# Amélia
+### Amélia
 <iframe src="https://player.vimeo.com/video/7949506" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-# Elas
+### Elas
 <iframe src="https://player.vimeo.com/video/7826919" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
