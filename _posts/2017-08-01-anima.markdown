@@ -2,8 +2,10 @@
 layout: post
 title: "Anima arquitetura"
 img: anima.jpg # Add image post (optional)
-imgfooter: anima2.jpg	
+imgfooter: footerblank.jpg	
 date: 2017-07-11 12:50:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
 Visual Identity project made for an architecture studio based in São Paulo.
+
+<img src="../assets/img/anima2.jpg" width="840">       
