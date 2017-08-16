@@ -1,0 +1,24 @@
+---
+layout: post
+title: "A Vó Hipster"
+img: vocover.jpg # Add image post (optional)
+imgfooter: 902b0218647453.562ccf9cbee8c.png
+date: 2017-07-12 12:54:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+---
+A vó hipster was an online shop that sold handmade house objects and plants. With the help of the owner, we came up with the name and the "Made by Gradma" concept of the shop.
+
+<img src="../assets/img/3d13ef18647453.562ccf9c91086.png" width="840">	
+
+<img src="../assets/img/0f84dc18647453.562ccf9d0a612.png" width="840">	
+  
+<img src="../assets/img/871aa818647453.562ccf9c9ba2c.png" width="840">	
+  
+<img src="../assets/img/8e998018647453.562ccf9c9dc34.jpeg" width="840">	
+ 
+<img src="../assets/img/840bad18647453.562d7a58cc9b7.png" width="840">	
+ 
+<img src="../assets/img/4e082f18647453.562d7a82e0fee.png" width="840">	
+ 
+<img src="../assets/img/dd813718647453.562ccf9ec4e73.jpeg" width="840">	
+ 
