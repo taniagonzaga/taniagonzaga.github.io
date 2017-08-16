@@ -3,7 +3,7 @@ layout: post
 title: "Bachelor Thesis"
 img: tcc.jpg # Add image post (optional)
 imgfooter: 22ec0b19462973.562dad62db5be.jpeg
-date: 2017-07-12 12:52:00 +0300
+date: 2017-08-03 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
 
