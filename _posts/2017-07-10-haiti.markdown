@@ -8,4 +8,4 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 ---
 
 <img src="../assets/img/haiti_logo_apres-07.png" width="840">      
-![gifpattern.gif](../assets/img/gifpattern.gif)   
+![patternloop.gif](../assets/img/patternloop.gif)   
