@@ -35,9 +35,7 @@ This work was presented in December 2009 at Centro Universitário Senac, São Pa
 <img src="../assets/img/cbe18e19462973.562dad62ee83a.jpeg" width="840">	
  
 <img src="../assets/img/5662b819462973.562dad6300505.jpeg" width="840">	
- 
-<img src="../assets/img/b7f02e19462973.562dad62e9527.jpeg" width="840">	
- 
+  
 <img src="../assets/img/3302df19462973.562dad62e5415.jpeg" width="840">	
  
 <img src="../assets/img/b2612219462973.562dad62df214.jpeg" width="840">	
