@@ -1,11 +1,11 @@
 logo: # add logo name
-title: zz
+title: taniagonzaga
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/zz" # the subpath of your site, e.g. /blog
+baseurl: "taniagonzaga.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
@@ -19,7 +19,6 @@ author-name: Tania Gonzaga # your name
 about-author: # about author
 email:  # your email
 phone: 015773060939 # your pnone number
-website: https://dwayne.example.com # you website
 
 # Social link
 email: tania.gonzaga2@gmail.com
