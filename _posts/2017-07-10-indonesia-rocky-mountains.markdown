@@ -1,8 +1,11 @@
 ---
 layout: post
-title: "Indonesia: Rocky mountains"
-img: indonesia.jpg # Add image post (optional)
+title: "Haïti"
+img: haitilogosite.png # Add image post (optional)
+imgfooter: HAITI_mockup.png
 date: 2017-07-10 12:51:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Travel, Indonesia, Mountains]
 ---
+
+<img src="../assets/img/haiti_logo_apres-07.png" width="840">      
+<img src="../assets/img/gifpattern.gif>
