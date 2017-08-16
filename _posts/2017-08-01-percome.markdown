@@ -3,7 +3,7 @@ layout: post
 title: "Perco-me"
 img: percome.jpg # Add image post (optional)
 imgfooter: 92b69b19462751.562dad5741105.png
-date: 2017-07-01 12:55:00 +0300
+date: 2017-08-01 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
 
