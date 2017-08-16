@@ -2,6 +2,7 @@
 layout: post
 title: "Order/ dis order"
 img: 361e3844017381.5805402841cb8.jpg # Add image post (optional)
+imgfooter: footerblank.jpg
 date: 2017-07-08 12:53:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
@@ -27,4 +28,3 @@ For the first two sketches, I decided to work with a very structured geometrical
 ## _Sketch 03
 ![3s.gif](../assets/img/3s.gif)  
 <img src="../assets/img/d1c07744017381.58358924595e2.png" width="840">       
-
