@@ -16,12 +16,15 @@ For the first two sketches, I decided to work with a very structured geometrical
 
 ## _Sketch 01
 ![1.gif](../assets/img/1.gif)  
-![cfd2e944017381.5835892458a76.png](../assets/img/cfd2e944017381.5835892458a76.png)  
+<img src="../assets/img/cfd2e944017381.5835892458a76.png" width="840">       
+
 
 ## _Sketch 02
 ![2.gif](../assets/img/2.gif)  
-![7b695844017381.58358924590e6.png](../assets/img/7b695844017381.58358924590e6.png) 
+<img src="../assets/img/7b695844017381.58358924590e6.png" width="840">       
+
 
 ## _Sketch 03
 ![3s.gif](../assets/img/3s.gif)  
-![d1c07744017381.58358924595e2.png](../assets/img/d1c07744017381.58358924595e2.png) 
+<img src="../assets/img/d1c07744017381.58358924595e2.png" width="840">       
+
