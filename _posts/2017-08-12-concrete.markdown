@@ -1,0 +1,12 @@
+---
+layout: post
+title: "500.000m"
+img: 1site.jpg # Add image post (optional)
+imgfooter: 2site.png
+date: 2017-08-07 12:52:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+---
+Send Nudes is a printed zine created specially to be distributed at Feira Tijuana Porto 2016. It contains collages of images created in ASCII. It plays around with the ideas of virtual sex, privacy and encryption.
+
+<img src="../assets/img/3site.png" width="840"> 
+<img src="../assets/img/4site.png" width="840"> 
