@@ -15,7 +15,7 @@ Three distinct sonic approaches attempt to unveil the atmosphere from the past a
 
 It is estimated that 500.000m3 of concrete was used in the construction of the Bunker. The impressiveness of this number served as an inspiration to building a concrete sculpture for this installation. It is meant to bring the Bunker’s ambience and material physicality, its shape proportionally resembles the building’s measurements. 
 
-<iframe src="https://player.vimeo.com/video/230434366" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/230434366" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #### Tania Gonzaga
 
