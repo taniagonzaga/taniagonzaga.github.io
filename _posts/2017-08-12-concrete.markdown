@@ -6,10 +6,10 @@ imgfooter: tumblr_inline_orhn5xwWSS1v0r9uy_540.jpg
 date: 2017-08-12 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
-+
+//
 Sound exploration project done together with Guida Ribeiro and Cassia Vila.
 Orientation by Petra Klusmeyer. Help of Jukka Boehm and Henrik Schütt and Denkort Bunker Valentin.
-+
+
 
 Three distinct sonic approaches attempt to unveil the atmosphere from the past and present of Bunker Valentin in Bremen Farge. This massive structure remaining from the Second World War II was never concluded or used for its main purpose: to be a submarine shipyard. It has yet remained in the landscape as a reminder of the intolerance and wrath that still resonate in current times. This colossal concrete building and its history motivated these sound explorations presented as an installation recreating the Bunker's ambience.
 
