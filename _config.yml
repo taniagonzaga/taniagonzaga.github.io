@@ -31,7 +31,7 @@ google_analytics: UA-104753546-1
 analytics: UA-104753546-1
 
 # Paginate
-paginate: 13
+paginate: 14
 paginate_path: /page:num/
 
 # Build settings
