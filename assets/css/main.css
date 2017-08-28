@@ -3857,7 +3857,7 @@ body {
 p {
   font-size: 1.1rem;
   line-height: 1.75rem;
-  /*margin: 0 0 1.75rem;*/
+  margin: 0 2rem 0 2rem;
   color: #4c4c4d;
   font-weight: 400;
 }
@@ -4371,8 +4371,8 @@ cite {
   display: inline-block;
   -webkit-border-radius: 50%;
           border-radius: 50%;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   overflow: hidden;
   margin-right: 2rem;
 }
