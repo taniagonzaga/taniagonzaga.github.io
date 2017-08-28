@@ -1,24 +1,20 @@
 ---
 layout: post
 title: "8:58"
-img: 2d787444786433.581e219b789db.png # Add image post (optional)
-imgfooter: 70200044786433.581e219b79157.png
+img: 8_58-HD (0.00.03.22).jpg	 # Add image post (optional)
+imgfooter: 8_58-HD (0.00.54.24).jpg
 date: 2017-08-09 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
+ 
+	
+ 
+asd
 
-Many artists across the centuries have turned to nature as a form of inspiration. They most likely found a nice place, set and observed how the sun light changed their surroundings through the day or how the wind moved the leaves making different movements each time. Even more, some of them drew the details of a fruit or a flower. In a simplified way, they tried to express what they saw using different levels of abstraction and adding their own particular vision.
+<iframe src="https://player.vimeo.com/video/231384135" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
-And that is precisely what the 1nt3rn3t project is about: ”Naturstudium” seating and observing the internet as a digital landscape inspiration, yet not like the mentioned artists, this project uses the internet as a working material. The idea was to create a VR Cardboard experience of a set of internet inspired sculptures. Each 3D sculpture randomly captures the gist of the internet hidden in inspirational quotes, sunset selfies, cats and so on. The randomness and sarcasm taken from the digital world are key elements to setting this project’s mood. The final outcome is an immersive walk through an exhibition taking place inside the internet which was inspired by the phrase “Welcome to the internet, I will be your guide”.
+<img src="../assets/img/oito1.gif">
 
-<iframe src="https://player.vimeo.com/video/190377684" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<img src="../assets/img/oito2.gif">
 
-<img align="center" img src="../assets/img/tg-1nt3rn3t-01.gif">
-
-<img src="../assets/img/tg-1nt3rn3t-02.gif">
-
-<img src="../assets/img/tg-1nt3rn3t-03.gif">
-
-<img src="../assets/img/tg-1nt3rn3t-04.gif">
-
-<img src="../assets/img/tg-1nt3rn3t-05.gif">
+<img src="../assets/img/8_58-HD (0.00.21.08).jpg" width="900">
