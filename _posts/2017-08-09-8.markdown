@@ -17,4 +17,5 @@ asd
 
 <img src="../assets/img/oito2.gif">
 
-<img src="../assets/img/8_58-HD (0.00.21.08).jpg" width="900">
+<img src="../assets/img/8_58-HD (0.00.21.08).jpg" width="840">
+<img src="../assets/img/Screen Shot 2017-08-28 at 4.03.49 PM.png" width="840">
