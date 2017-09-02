@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karma/ Void"
-img: karmavoid.jpg # Add image post (optional)
+img: gn1.jpg # Add image post (optional)
 imgfooter: footerblank.jpg
 date: 2017-08-13 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
