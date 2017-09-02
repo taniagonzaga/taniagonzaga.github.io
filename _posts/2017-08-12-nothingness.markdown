@@ -11,8 +11,9 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 
 
 This sound performance is an algorithmic feedback loop that transforms the spoken words by recording and playing it back randomly 1 second at the time, slowly destroying and deconstructing the speech until the words are no longer recognisable. 
-
-
+<br>
+<br>
+</br>
 Created based on the text "Uncounted" by Emily Roysdon and inspired by the works of Alvin Lucier’s "I am sitting in a room" and Virginia Woolf’s “The Waves”.
 
 
@@ -22,16 +23,13 @@ The work addresses the relevance of speech by playing with repetition and the po
 This sound piece is a studio recording of the performance made at Schwankhalle Bremen, 2017. The original recording was edited to fit this video's duration.
 
 
-Sound: microphone, speaker, PD patch. 
-<br>
-
-Video: Kinect+processing, after effects.
+*Sound: microphone, speaker, PD patch. / Video: Kinect+processing, after effects.
 
 
 <iframe src="https://player.vimeo.com/video/228711818" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 
 <br>
-<img src="../assets/img/rngif2.gif" align="center" width="940">       
-
-<img src="../assets/img/rngif1.gif" width="940">       
+<img src="../assets/img/rngif2.gif" width="1040">       
+<br>
+<img src="../assets/img/rngif1.gif" width="1040">       
