@@ -7,6 +7,9 @@ date: 2017-08-05 12:54:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
 A vó hipster was an online shop that sold handmade house objects and plants. With the help of the owner, we came up with the name and the "Made by Gradma" concept of the shop.
+<br>
+<br>
+
 
 <img src="../assets/img/3d13ef18647453.562ccf9c91086.png" width="840">	
 
