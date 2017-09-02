@@ -6,14 +6,20 @@ imgfooter: tumblr_inline_orhn5xwWSS1v0r9uy_540.jpg
 date: 2017-08-10 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
-//
+<i>//
 Sound exploration project done together with Guida Ribeiro and Cassia Vila.
 Orientation by Petra Klusmeyer. Help of Jukka Boehm and Henrik Schütt and Denkort Bunker Valentin.
-//
+// </i>
+<br>
+<br>
 
 Three distinct sonic approaches attempt to unveil the atmosphere from the past and present of Bunker Valentin in Bremen Farge. This massive structure remaining from the Second World War II was never concluded or used for its main purpose: to be a submarine shipyard. It has yet remained in the landscape as a reminder of the intolerance and wrath that still resonate in current times. This colossal concrete building and its history motivated these sound explorations presented as an installation recreating the Bunker's ambience.
+<br>
+<br>
 
 It is estimated that 500.000m3 of concrete was used in the construction of the Bunker. The impressiveness of this number served as an inspiration to building a concrete sculpture for this installation. It is meant to bring the Bunker’s ambience and material physicality, its shape proportionally resembles the building’s measurements. 
+<br>
+<br>
 
 <iframe src="https://player.vimeo.com/video/230434366" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -22,12 +28,20 @@ It is estimated that 500.000m3 of concrete was used in the construction of the B
 ## -. --- -- --- .-. . .-- .- .-.
 
 <iframe width="100%" height="150" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327696340&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<br>
+<br>
 
 By experimenting with the latent anger and destruction this sound composition aims at creating a rough ambience. It was inspired by a graffiti painted in 1983 in which a red NO MORE WAR was written in the outer facade of the bunker. The phrase was not visible for long as it was soon painted over with grey paint. The discrepancy between the grey paint and the aged concrete walls is still visible. 
+<br>
+<br>
 
 The project revisits this phrase by translating it to morse code which was commonly used for encoded communication during the WWII. The code was then played with a loudspeaker inside one of the bunker’s main hall, using all the resonant force of the space to create a natural reverb effect. Thereby setting the rhythm of the piece as a statement: NO MORE WAR!
+<br>
+<br>
 
 The composition itself was made out underwater microphones built to record the reverberation of wind and water from the beach in front of the bunker, where the submarines were supposed to reach the river.
+<br>
+<br>
 
 
 <img src="../assets/img/tumblr_inline_orht9znO4l1v0r9uy_540.jpg"	width="840"> 
