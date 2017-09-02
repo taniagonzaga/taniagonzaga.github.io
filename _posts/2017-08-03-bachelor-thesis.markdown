@@ -13,15 +13,18 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 This bachelor thesis consisted of a historical and anthropological written research and 2 videos as the practical component.
 The concept of the project was to question how we got to the point where women are seen and expected to be delicate housewives. Moreover, to generate further discussions towards the relations between what society expected women
 to be and what they really could be. For the first video called Amelia, elements of the feminine universe were projected by an overhead projector. The second video follows the concept of revealing what can be behind societies’ expectations by using ripped portraits of strong and somehow historically relevant women. Those ripped images somehow blend and you cannot distinguish who they are.
-
+<br>
+<br>
 This work was presented in December 2009 at Centro Universitário Senac, São Paulo.
 
-### Amélia
+# Amélia
 <iframe src="https://player.vimeo.com/video/7949506" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-### Elas
+<br>
+<br>
+# Elas
 <iframe src="https://player.vimeo.com/video/7826919" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<br>
+<br>
 
 
 <img src="../assets/img/4b94fe19462973.562dad62cb639.jpeg" width="840">	
