@@ -8,7 +8,9 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 ---
 
 This is an award winning video made for the One Minute Festival Brazil. The title can be translated as “I get lost in the vastness of words.“
-
+<br>
+<br>
 <iframe src="https://player.vimeo.com/video/8069259" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-
+<br>
+<br>
 <img src="../assets/img/0696b819462751.562dad50f2e14.jpeg" width="840">       	
