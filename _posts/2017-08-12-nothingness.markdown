@@ -30,8 +30,7 @@ This sound piece is a studio recording of the performance made at Schwankhalle B
 <iframe src="https://player.vimeo.com/video/228711818" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 <br>
-<br>
+
 <img src="../assets/img/rngif2.gif" width="1040">       
-<br>
 <br>
 <img src="../assets/img/rngif1.gif" width="1040">       
