@@ -8,12 +8,18 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 ---
 
 This work is a homage to the hungarian artist Vera Molnar and it is based on exploring the rationality and geometry of Vera’s pieces, yet focusing on the twist, the 1% of disorder, the disruption of the rational, the human error upon the logical. By going further in this direction, my homage is then constituted of 3 different sketches in an attempt of addressing the order and disorder topic. 
+<br>
+<br>
 
 One aspect that got my attention in Vera’s work is the minimalism of black lines on white canvas used in many of her drawings. In my own perspective the rationality of the order is better described in black and white. Following this somehow binary inspiration, I deliberately chose to work with only two basic elements: lines and squares. 
+<br>
+<br>
 
 For the first two sketches, I decided to work with a very structured geometrical grid that is disrupted over time, as it lapses it builds the disorder. In the third sketch what happens is the opposite, what starts in a disorderly manner, ends up being a perfect orderly black square.
+<br>
+<br>
 
-*Note that for the purproses of this documentation, the sketches are running faster.
+<i>*Note that for the purproses of this documentation, the sketches are running faster.</i>
 
 ## _Sketch 01
 ![1.gif](../assets/img/1.gif)  
