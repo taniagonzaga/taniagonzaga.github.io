@@ -12,4 +12,3 @@ WEBGL experiment created with Unity.
 
 <a href="http://taniagonzaga.github.io/karmavoid/"><img border="0" alt="ENter" img src="../assets/img/karmavoid2.png">
     
-<img src="../assets/img/karmavoid2.png" width="1100">       
