@@ -9,5 +9,5 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 WEBGL experiment created with Unity.
 <br>
 <br>
-<a href="http://taniagonzaga.github.io/karmavoid/"><img border="0" alt="ENter" target="_blank" img src="../assets/img/karmavoid2.png" width="1020">
+<a href="http://taniagonzaga.github.io/karmavoid/" target="_blank"><img border="0" alt="ENter" img src="../assets/img/karmavoid2.png" width="1020">
     
