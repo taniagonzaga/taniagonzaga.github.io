@@ -7,7 +7,7 @@ date: 2017-08-12 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
 
-<img src="../assets/img/rn1.jpg" align="center" width="1100">       
+<img src="../assets/img/rn1.jpg" width="1100">       
 
 
 This sound performance is an algorithmic feedback loop that transforms the spoken words by recording and playing it back randomly 1 second at the time, slowly destroying and deconstructing the speech until the words are no longer recognisable. 
@@ -32,6 +32,6 @@ Video: Kinect+processing, after effects.
 
 
 <br>
-<img src="../assets/img/rngif2.gif" width="840">       
+<img src="../assets/img/rngif2.gif" align="center" width="940">       
 
-<img src="../assets/img/rngif1.gif" width="840">       
+<img src="../assets/img/rngif1.gif" width="940">       
