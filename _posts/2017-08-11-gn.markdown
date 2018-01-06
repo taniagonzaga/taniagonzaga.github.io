@@ -65,13 +65,12 @@ The last scene represents a live growth and accumulation of noise, lasting for o
 
 _ _
 
-• Published at <a href="https://www.radiancevr.co/artists/tania-gonzaga/" target="_blank"><b> RadianceVR<b></a>
+• Published at <a href="https://www.radiancevr.co/artists/tania-gonzaga/" target="_blank"><b> RadianceVR</b></a>
 
 • Exhibited at <a href="http://www.tadaex.com" target="_blank"><b> TADAEX Tehran<b></a>
+  <img src="../assets/img/tehran.jpg" width="540">       
 
-![tehran.jpg](../assets/img/tehran.jpg width="540")  
 
-• Exhibited at <a href="http://www.lab30.de" target="_blank"><<b> Lab30 Augsburg<b></a>
-  
-![augsburg.jpg](../assets/img/augsburg.jpg width="540")  
+• Exhibited at <a href="http://www.lab30.de" target="_blank"><b> Lab30 Augsburg</b></a>
+  <img src="../assets/img/augsburg.jpg" width="540">       
 
