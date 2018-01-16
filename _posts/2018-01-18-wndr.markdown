@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Wndr"
@@ -7,8 +6,6 @@ imgfooter: wndrfooter.gif
 date: 2017-08-11 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
-
-
 	
 
 A small dark room is used to create an atmospheric expanded space outside the virtual world. It is composed by a wood black table, a chair, a VR headset with a motion sensor attached, speakers and a dim LED light for orientation purposes. The table is build with 11 computer fans running at di erent RPM and distributed in a specific way to create a topography field of air flow. The wind is placed as an abstract physical representation of the digital noise and it is used because of its turbulent force, ungraspable and non-material quality. In addition, an ambience soundtrack was composed using the fan motor sounds complemented by dissonant note intervals of second minor. The track plays constantly in the room yet not overlapping the motors’ live sound.
