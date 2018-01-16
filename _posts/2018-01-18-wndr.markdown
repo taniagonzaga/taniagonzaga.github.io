@@ -9,7 +9,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 	
 .
 
-<video src="animat2.mov" width="750" height="1334" controls preload></video>
+<video src="animat2.mov" width="400" height="711" controls preload></video>
 
 
  
