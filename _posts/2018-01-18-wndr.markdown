@@ -8,8 +8,9 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 ---
 	
 .
-
-<video src="animat2.mov" width="400" height="711" controls preload></video>
+<div align="center">
+<video src="animat2.mp4" poster="wndrposter.png" width="400" height="711" controls preload></video>
+</div>
 
 
  
