@@ -9,7 +9,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 	
 .
 
-![animat2.mov](../assets/img/animat2.mov)   
 <video src="animat2.mov" width="750" height="1334" controls preload></video>
 
 
