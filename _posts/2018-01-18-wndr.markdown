@@ -8,10 +8,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 ---
 
 <div align="center">
-	<video controls autoplay></video>
-<video src="../assets/video/animat2.mp4" poster="../assets/video/wndrposter.png" width="400" height="711"></video>
+<video src="../assets/video/animat2.mp4" poster="../assets/video/wndrposter.png" width="400" height="711" controls autoplay></video>
 </div>
-
 
  	
 The wndr is an application that revolves in the idea of collecting and sharing moments in a more abstract manner. Users can set up a time frame for collecting media and during this period are occasionally reminded to take pictures or make videos of their surroundings. Those media are compiled into a short abstract video composition called journey. It uses a glitch algorithm to transform real images, therefore showing a little bit of the user’s routine during a selected period.
