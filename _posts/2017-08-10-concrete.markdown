@@ -43,6 +43,7 @@ The composition itself was made out underwater microphones built to record the r
 <br>
 <br>
 
+<div align="center">
 
 <img src="../assets/img/tumblr_inline_orht9znO4l1v0r9uy_540.jpg"	width="840"> 
 
@@ -53,5 +54,7 @@ The composition itself was made out underwater microphones built to record the r
 <img src="../assets/img/tumblr_inline_orhn67d92t1v0r9uy_540.jpg"	width="840"> 
 
 <img src="../assets/img/tumblr_inline_orhn6fkwgY1v0r9uy_540.jpg"	width="840"> 
+
+</div>
  
  For more information about the project, visit: <a href="https://500000m3concrete.tumblr.com" target="_blank">500.000m3 of Concrete</a>
