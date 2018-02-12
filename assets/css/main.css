@@ -3850,7 +3850,8 @@ template {
 body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #262626;
+  /*background-color: #262626;*/
+  background-color: #ffffff;
   margin: 0;
 }
 
