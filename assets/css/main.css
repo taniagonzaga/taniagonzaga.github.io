@@ -4372,8 +4372,8 @@ cite {
   display: inline-block;
   -webkit-border-radius: 50%;
           border-radius: 50%;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   overflow: hidden;
   margin-right: 2rem;
 }
