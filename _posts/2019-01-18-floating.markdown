@@ -38,4 +38,4 @@ As the floating objects are not waterproof sealed, the noise that moves the wate
 <img src="../assets/img/tg-floatingfield-04.jpg" width="1100">
 <br>
 <br>
-<img src="../assets/img/_pages.gif" width="1100">
+<img src="../assets/img/_pages.gif" width="840">
