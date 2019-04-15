@@ -9,6 +9,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 
 <iframe src="https://player.vimeo.com/video/326221412" width="840" height="560" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 <br>
+
 This installation unveils the hidden structure of radio communication happening via Wifi and Bluetooth when exposing its parasitological traces. It captures the imperceptible sounds coming out of those devices, translating them to hearable frequencies, which are then played against the water, creating vibrational patterns that are reflected onto the ceiling, filling up the room with the unveiled hidden noise in the form of aura-like cymatic patterns
 
 <img src="../assets/img/tg-floatingfield-01.jpg" width="1100">
