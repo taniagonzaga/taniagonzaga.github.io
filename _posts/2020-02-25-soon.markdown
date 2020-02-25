@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Coming Soon"
-img: ff_keyvisual.jpg # Add image post (optional)
-imgfooter: detalhes.gif
+img: newsite.png # Add image post (optional)
+# imgfooter: detalhes.gif
 date: 2020-02-25 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 ---
