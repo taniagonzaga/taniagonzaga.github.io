@@ -8,3 +8,5 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 ---
 
 Well, it is time for a new site. I am slowly developing it on my own while doing other things. So it will take a bit longer until it is ready. Check it out later here: <a href="http://www.taniagonzaga.com" target="_blank"> http://www.taniagonzaga.com  </a> 
+
+arfilter.png
